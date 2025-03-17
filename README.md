@@ -5,3 +5,7 @@
 Make sure the necessary packages are installed by running
 
 `pip install -r requirements.txt`
+
+## Run
+
+`python main.py`
